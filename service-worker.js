@@ -1,4 +1,4 @@
-const CACHE = "kyudo-cache-v1";
+const CACHE = "kyudo-cache-v2"; 
 const ASSETS = ["./", "./index.html", "./manifest.webmanifest"];
 
 self.addEventListener("install", (e) => {
